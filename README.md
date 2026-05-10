@@ -44,8 +44,7 @@ IRR-Arbiter-SystemVerilog/
 │
 ├── simulation/
 │   ├── waveform.png
-│   ├── simulation_output.txt
-│   └── output.png
+│   └── Block_diagram.png
 │
 ├── docs/
 │   └── project_report.pdf
